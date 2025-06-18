@@ -1,0 +1,24 @@
+Berkeley County South Carolina USA	33.14699	-79.8975
+Council Bluffs Iowa USA	41.25896	-95.85436
+The Dalles Oregon 97058 USA	45.59763	-121.18969
+Douglas County Georgia USA	33.45571	-81.99773
+Henderson Nevada USA	36.0341	-114.984459
+Jackson County Alabama USA	34.80403	-85.73862
+Lenoir North Carolina USA	35.905392	-81.534737
+Loudoun County Virginia USA	38.943	-77.51862
+Mayes County Oklahoma USA	36.39037	-95.04812
+Midlothian Texas USA	32.482208	-96.994499
+Montgomery County Tennessee USA	36.31831	-87.36482
+New Albany Ohio USA	40.08274	-82.80877
+Papillion Nebraska USA	41.15646	-96.04294
+Storey County Nevada USA	39.53847	-119.48022
+Quilicura Santiago Metropolitan Region Chile	-33.35974	-70.7265
+Dublin Ireland	53.349804	-6.26031
+Eemshaven Netherlands	53.44211	6.82571
+Fredericia Denmark	55.565681	9.75367
+Hamina Finland	60.569199	27.1938
+Middenmeer Netherlands	52.80752	4.99921
+Saint-Ghislain Belgium	50.447849	3.82025
+Changhua County Taiwan	24.07555	120.54507
+Inzai Japan	35.686958	139.749466
+Singapore	1.352083	103.819839
